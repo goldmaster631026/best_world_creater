@@ -100,11 +100,11 @@ const About = () => {
                 <span className="mr-2 text-primary">Name : </span> Andres Romero
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Phone : </span>+5493884335452
+                <span className="mr-2 text-primary">Phone : </span>@jupiter117
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
-                goldmaster631026221@gmail.com
+                goldmaster631026@gmail.com
               </h2>
               {/* <h2 className="font-medium">
                 <span className="mr-2 text-primary">Address : </span>Canada , Montréal-Est
