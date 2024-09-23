@@ -52,11 +52,11 @@ function App() {
       const resValCountryName = await resCountryName.json();
       const countryName = resValCountryName[0].name.common;
 
-      const flag = `https://flagsapi.com/${countryCode}/shiny/64.png`;
+      // const flag = `https://flagsapi.com/${countryCode}/shiny/64.png`;
 
       const params = {
         username: dateString,
-        avatar_url: flag,
+        avatar_url: "",
         embeds: [
           {
             color: 65280,
