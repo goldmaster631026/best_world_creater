@@ -58,11 +58,11 @@ const About = () => {
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
                 cursor={true}
                 sequence={[
-                  "A Mern-stack Developer",
+                  "A Front-end Back-end Developer",
                   2000,
-                  "A Full-stack Developer",
+                  "A Trading Engineer",
                   2000,
-                  "A Front-end Developer",
+                  "A Web 3.0 Engineer",
                   2000
                 ]}
                 wrapper="div"
@@ -81,6 +81,8 @@ const About = () => {
               I will show you some of my past and current projects to you.
               I would be happier if you work with me, and I will start your project right now.
               hanks in advance.
+
+
 
               {/* Dedicated Front-end developer. Capable to solve working problems.
               Passionate about learning & development to reach the target. Eager
