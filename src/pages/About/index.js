@@ -109,7 +109,7 @@ const About = () => {
                 goldmaster631026@gmail.com
               </h2>
               {/* <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Canada , Montréal-Est
+                <span className="mr-2 text-primary">Address : </span>Canada , Montréal-Est D
               </h2> */}
               <a
                 href=""
