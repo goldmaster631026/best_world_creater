@@ -47,7 +47,7 @@ const Footer = () => {
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.fiverr.com/andres164"
+            href="https://www.fiverr.com/Kaizen164"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -113,7 +113,7 @@ const Footer = () => {
               className="text-primary hover:underline"
               target="blank"
             >
-              Andres
+              Kaizen
             </a>
           </p>
         </div>
