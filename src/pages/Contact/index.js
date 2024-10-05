@@ -171,7 +171,7 @@ const Contact = () => {
               <FaLinkedin></FaLinkedin>
             </a> */}
             <a
-              href="https://github.com/GoldMaster631026221"
+              href="https://github.com/"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
