@@ -1,4 +1,4 @@
-<h1 align ="center" >Ronald | Portfolio</h1>
+<h1 align ="center" >Ronald Cheng | Portfolio</h1>
 
 <h5  align ="center"> 
 Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="">Resume 💼</a> </h5>
@@ -74,7 +74,7 @@ This project was created using the following technologies.
 
 MIT License
 
-Copyright (c) 2022 Ronald
+Copyright (c) 2022 Ronald Cheng
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

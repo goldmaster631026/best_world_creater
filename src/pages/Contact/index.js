@@ -141,7 +141,7 @@ const Contact = () => {
           <h2 className="text-2xl font-medium">Contact Info</h2>
           <div className="flex items-center my-6">
             <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaUserAlt>
-            <h3 className="font-medium text-primary"> Ronald</h3>
+            <h3 className="font-medium text-primary"> Ronald Cheng</h3>
           </div>
           <div className="flex items-center my-6">
             <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>

@@ -33,17 +33,17 @@ const Service = () => {
     },
     {
       id: 2,
-      title: "MERN Development",
+      title: "Web3 Developer",
       icon: <FiServer />,
       description:
-        "I am very familiar with NodeJS, Express JS, and MongoDB/Mongoose. So I can build full-stack application with MERN.",
+        "Innovative Web3 Developer with a proven history of pioneering decentralized applications, including a DeFi platform that secured over $38 milion in TVLwithin three months and a DAO that engaged 98,000 active participants.",
     },
     {
       id: 3,
-      title: "Web Design",
+      title: "MERN Development",
       icon: <BiPalette />,
       description:
-        "I also provide Fully Responsive Static Website Design with HTML, CSS, Bootstrap, Tailwind.",
+        "I also provide perfect service to develop and maintain systems using Full Stack Tech.",
     },
     // {
     //   id: 4,

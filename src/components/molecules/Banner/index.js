@@ -26,26 +26,26 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hello, I'm </h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Ronald</h1>
+        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Ronald Cheng</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
             cursor={true}
             sequence={[
-              "A Mern-stack Developer",
+              "Full Stack Developer",
               2019,
-              "A Back-end Developer",
-              2020,
+              "Trading PMI",
+              2022,
               "Web3 Developer",
-              2020,
+              2023,
             ]}
             wrapper="div"
             repeat={Infinity}
           />
         </div>
         <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]">
-          As a Web2.0 Web3.0 developer, I am committed to building high-quality web
-          applications that meet the needs of my clients. With 4 years of
+          As a Full Stack, I am committed to building high-quality web
+          applications that meet the needs of my clients. With 6 years of
           experience in full-stack web development, I specialize in using
           HTML, CSS, React.js, Next js, MongoDB, Express.js, and Node.js to
           create scalable and robust web applications.
