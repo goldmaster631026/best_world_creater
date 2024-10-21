@@ -47,27 +47,27 @@ const Footer = () => {
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.fiverr.com/Ronald Cheng164"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fiverr
+            
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.upwork.com/freelancers/~01967df47449b18513"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
-            UpWork
+            
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.freelancer.com/u/Goldmaster221"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
-            Freelancer
+            
           </a>
           {/* <a
             className="text-xl inline-bloc mx-6 text-neutral"

@@ -4,7 +4,7 @@ const blogs = [
     title: "Getting to Know the Metaverse and How It Influences Life",
     path: "know-metaverse",
     date: "10 September 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682377590/Blog%20Portfolio%20Gilbert/blog-07_wm8gyz.jpg",
+    img: "15.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -18,7 +18,7 @@ const blogs = [
     title: "Know the Difference Between Front End and Back End Developer",
     path: "know-fronted-backend-developer",
     date: "20 September 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682376966/Blog%20Portfolio%20Gilbert/blog-05_j7lh83.jpg",
+    img: "14.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -32,7 +32,7 @@ const blogs = [
     title: "Get to know what a Proxy Server is & how it works",
     path: "know-proxy-server",
     date: "25 September 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682377204/Blog%20Portfolio%20Gilbert/blog-06_skjv9c.jpg",
+    img: "13.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -46,7 +46,7 @@ const blogs = [
     title: "Get to know Big Data Technology to Optimize Your Business",
     path: "know-big-data",
     date: "06 November 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682378150/Blog%20Portfolio%20Gilbert/blog-08_dg18fq.jpg",
+    img: "12.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -60,7 +60,7 @@ const blogs = [
     title: "Why the Internet of Things (IoT) Will Be The Biggest Technology Trend In The Future",
     path: "internet-of-things",
     date: "09 November 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682378362/Blog%20Portfolio%20Gilbert/blog-09_d9btsw.jpg",
+    img: "11.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -74,7 +74,7 @@ const blogs = [
     title: "How Cloud Computing Technology Helps Increase Business Efficiency",
     path: "cloud-computing",
     date: "12 November 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682376600/Blog%20Portfolio%20Gilbert/blog-04_trkwbx.jpg",
+    img: "10.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -88,7 +88,7 @@ const blogs = [
     title: "Get to know AI (Artificial Intelligence) and Its Role in the World of Technology",
     path: "know-artificial-intelligence",
     date: "15 November 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682378753/Blog%20Portfolio%20Gilbert/blog-10_ceye4o.jpg",
+    img: "9.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -102,7 +102,7 @@ const blogs = [
     title: "Get to know what CMS is, its benefits & how it works",
     path: "know-cms",
     date: "28 November 2022 ",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682375977/Blog%20Portfolio%20Gilbert/blog-03_brxqav.jpg",
+    img: "8.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -116,7 +116,7 @@ const blogs = [
     title: "Get to know Node Js",
     path: "know-nodejs",
     date: "30 November 2022",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682380096/Blog%20Portfolio%20Gilbert/blog-15_jmgiau.jpg",
+    img: "7.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -130,7 +130,7 @@ const blogs = [
     title: "Get to Know What React Works & Its Advantages",
     path: "know-react",
     date: "12 January 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379583/Blog%20Portfolio%20Gilbert/blog-13_ja6gob.jpg",
+    img: "6.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -144,7 +144,7 @@ const blogs = [
     title: "Get to Know What Express JS Works & Its Strengths",
     path: "know-expressjs",
     date: "28 January 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379893/Blog%20Portfolio%20Gilbert/blog-14_i6cr3c.jpg",
+    img: "5.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -158,7 +158,7 @@ const blogs = [
     title: "Get to Know What MongoDB Works & Its Strengths",
     path: "know-mongodb",
     date: "10 February 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379347/Blog%20Portfolio%20Gilbert/blog-12_ogkohs.jpg",
+    img: "4.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -172,7 +172,7 @@ const blogs = [
     title: "Get to Know What Redux Works & Its Strengths",
     path: "know-redux",
     date: "23 February 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682375519/Blog%20Portfolio%20Gilbert/blog-02_sfkoc2.jpg",
+    img: "3.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -186,7 +186,7 @@ const blogs = [
     title: "Get to Know What Next JS Works & Its Strengths",
     path: "know-nextjs",
     date: "09 March 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379107/Blog%20Portfolio%20Gilbert/blog-11_d4jicx.jpg",
+    img: "2.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -200,7 +200,7 @@ const blogs = [
     title: "Introduction to MERN Stack Developer",
     path: "introduction-to-mern-stack-developer",
     date: "21 March 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1679520807/Blog%20Portfolio%20Gilbert/blog-01_mqx2sc.jpg",
+    img: "1.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
