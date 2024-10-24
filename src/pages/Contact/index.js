@@ -177,20 +177,20 @@ const Contact = () => {
             >
               <FaGithubSquare></FaGithubSquare>
             </a>
-            {/* <a
-              href="https://twitter.com/GilbertHutapeaa"
+            <a
+              href="https://x.com/ronald_cheng010"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaTwitterSquare></FaTwitterSquare>
-            </a> */}
-            {/* <a
+            </a>
+            <a
               href="https://www.instagram.com/bethup97/"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaInstagramSquare></FaInstagramSquare>
-            </a> */}
+            </a>
           </div>
         </motion.div>
       </div>
