@@ -178,7 +178,7 @@ const Contact = () => {
               <FaGithubSquare></FaGithubSquare>
             </a>
             <a
-              href=""
+              href="https://x.com/ronald_cheng010"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
