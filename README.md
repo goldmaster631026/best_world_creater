@@ -1,95 +1,65 @@
-<h1 align ="center" >Ronald Cheng | Portfolio</h1>
-
-<h5  align ="center"> 
-Dedicated Full Stack || Web3 developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="">Resume 💼</a> </h5>
-<br/>
-
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
+# Portfolio Website
 
 
 
-## Configuration and Setup
+## Description
 
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
+This is my personal portfolio website built to showcase my skills, projects, and a little bit about myself. The website is created using React, Chakra UI, and Framer Motion to provide an interactive and visually appealing user experience. The project includes a glass-style navigation bar, an input form, and animations to enhance the overall design.
 
-- Open the project in your prefered code editor.
+## Demo
 
-In the first terminal
+## Features
 
-```
-$ cd berthutapea-portfolio
-$ npm install 
-$ npm run start
-```
+- Showcase of projects and skills
+- Glass-style navigation bar
+- Interactive animations using Framer Motion
+- Input form for user interaction
+- Responsive design for all devices
 
-##  Key Features
+## Technologies Used
 
-- Home
-- About
-- Project 
-- Contact
-- Blog
+- React
+- Chakra UI
+- Framer Motion
+- HTML/CSS
 
+## Setup and Installation
 
-<br/>
+1. Clone the repository:
+   ```
 
-##  Technologies used
+2. Install dependencies:
+   ```
+   cd your_portfolio_folder
+   npm install
+   ```
 
-This project was created using the following technologies.
+3. Create a `.env` file in the root directory of your project.
 
-- [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications
-- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
-- [Css](https://developer.mozilla.org/en-US/docs/Web/CSS) - For User Interface
-- [React icons](https://react-icons.github.io/react-icons/) -
- Small library that helps you add icons  to your react apps.
- - [Tailwind CSS](https://tailwindcss.com/) - For User Interface
-- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
-- [daisyUI  ](https://daisyui.com/docs/changelog/) - For User Interface
+4. Add the following environment variables to the `.env` file:
+   ```
+   REACT_APP_PUBLIC_KEY=YOUR_PUBLIC_KEY
+   REACT_APP_KEY1=YOUR_SERVICE_ID
+   REACT_APP_KEY2=YOUR_TEMPLATE_ID
+   ```
 
- ##  Screenshots 
- 
-![img-1](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
----- -
-![img-2](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
---- - 
-![img-3](https://user-images.githubusercontent.com/111676859/235824165-95c1e6b6-f3df-426e-816a-8c80a91d352d.png)
---- - 
-![img-4](https://user-images.githubusercontent.com/111676859/235824167-224063d0-624a-4aaf-b27f-f4aa8b668511.png)
---- - 
-![img-5](https://user-images.githubusercontent.com/111676859/235824168-a1028607-de4c-466a-8527-c05eedb1d6b0.png)
+   Replace 'YOUR_PUBLIC_KEY', 'YOUR_SERVICE_ID', and 'YOUR_TEMPLATE_ID' with your actual [EmailJS](https://www.emailjs.com/) credentials.
 
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea]()
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+5. Run the development server:
+   ```
+   npm run start
+   ```
 
-## License
+6. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the website.
 
-MIT License
+## About Me
 
-Copyright (c) 2022 Ronald Cheng
+I am a passionate full-stack web developer with expertise in React and Next.js. I enjoy building interactive and user-friendly web applications. This portfolio showcases some of my best work and projects I've worked on.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Contact
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Star and Fork
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+If you find this project helpful or interesting, consider giving it a star ⭐ on GitHub. You can also fork it to use it as a starting point for your own portfolio website. Happy coding!
+
+Feel free to reach out if you have any questions or if you want any specific features in the portfolio!

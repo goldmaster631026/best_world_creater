@@ -1,186 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Ronald Cheng Blockchain Smart Contract Developer"
+    />
+    <link rel="shortcut icon" href="./s-low-resolution-logo-color-on-transparent-background.png" type="image/x-icon">
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
 
-<head>
-  <meta charset="utf-8" />
-  <link rel="icon" href="%PUBLIC_URL%/icon.png" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#000000" />
-  <meta name="description"
-    content="I am Ronald Cheng." />
-  <meta name="author" content="Ronald Cheng (Villate)" />
-  <meta name="keywords"
-    content="Ronald Cheng">
-  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-  <title>Ronald Cheng | Portfolio</title>
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Ronald | Blockchain Smart Contract Developer</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
 
-  <style>
-    #loader-container {
-      background-color: #212121;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 100vw;
-      height: 100vh;
-      position: fixed;
-      top: 0;
-      left: 0;
-      z-index: 999999;
-    }
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
 
-    .loading {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 160px;
-      width: 170px;
-      position: relative;
-      margin: 0px;
-      padding: 0px;
-    }
-
-    .loading_circle {
-      border: 5px transparent solid;
-      position: absolute;
-      width: 100px;
-      height: 100px;
-      border-radius: 69%;
-    }
-
-    .loading_blue {
-      top: 0px;
-      border-top: 5px lightblue solid;
-      animation-delay: 4s;
-      animation: blue_animation 1.5s infinite;
-    }
-
-    .loading_blue:after {
-      position: absolute;
-      content: "";
-      width: 10px;
-      height: 10px;
-      background: lightblue;
-      border-radius: 69%;
-      right: 5px;
-      top: 10px;
-      box-shadow: 0px 0px 20px lightblue;
-    }
-
-    .loading_blue:before {
-      content: " ";
-      width: 5px;
-      height: 5px;
-      position: absolute;
-      background: lightblue;
-      top: 8.8px;
-      left: 9px;
-      border-radius: 69%;
-    }
-
-    .loading_coral {
-      left: 0px;
-      bottom: 0px;
-      border-top: 5px #FD5857 solid;
-      animation: coral_animation 1.5s infinite;
-    }
-
-    .loading_coral:after {
-      position: absolute;
-      content: "";
-      width: 10px;
-      height: 10px;
-      background: #FD5857;
-      border-radius: 69%;
-      right: 5px;
-      top: 10px;
-      box-shadow: 0px 0px 20px #FD5857;
-    }
-
-    .loading_coral:before {
-      content: " ";
-      width: 5px;
-      height: 5px;
-      position: absolute;
-      background: #FD5857;
-      top: 8.8px;
-      left: 9px;
-      border-radius: 69%;
-    }
-
-    .loading_orange {
-      right: 0px;
-      bottom: 0px;
-      border-top: 5px #F79D41 solid;
-      animation: orange_animation 1.5s infinite;
-    }
-
-    .loading_orange:after {
-      position: absolute;
-      content: "";
-      width: 10px;
-      height: 10px;
-      background: #F79D41;
-      border-radius: 69%;
-      right: 5px;
-      top: 10px;
-      box-shadow: 0px 0px 20px #F79D41;
-    }
-
-    .loading_orange:before {
-      content: " ";
-      width: 5px;
-      height: 5px;
-      position: absolute;
-      background: #F79D41;
-      top: 8.8px;
-      left: 9px;
-      border-radius: 69%;
-    }
-
-    @keyframes blue_animation {
-      0% {
-        transform: rotate(0deg);
-      }
-
-      100% {
-        transform: rotate(360deg);
-      }
-    }
-
-    @keyframes coral_animation {
-      0% {
-        transform: rotate(240deg);
-      }
-
-      100% {
-        transform: rotate(600deg);
-      }
-    }
-
-    @keyframes orange_animation {
-      0% {
-        transform: rotate(120deg);
-      }
-
-      100% {
-        transform: rotate(480deg);
-      }
-    }
-  </style>
-</head>
-
-<body>
-  <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="root">
-    <div id="loader-container">
-      <div className="loading">
-        <div className="loading_circle loading_blue"></div>
-        <div className="loading_circle loading_coral"></div>
-        <div className="loading_circle loading_orange"></div>
-      </div>
-    </div>
-  </div>
-</body>
-
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
 </html>
