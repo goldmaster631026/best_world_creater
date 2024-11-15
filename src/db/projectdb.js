@@ -143,11 +143,20 @@ export const Achievements = [
     liveLink: '',
   },
   {
-    heading: 'Certification',
-    img: './Certification.png',
+    heading: 'Certification B',
+    img: './Certification1.png',
     title: 'Blockchain Solidity Certification of Study Section',
     description:
       'On August 11, 2021, I successfully obtained the Blockchain Solidity certification from Study Section.',
+    techStack: [],
+    liveLink: '',
+  },
+  {
+    heading: 'Certification W',
+    img: './Certification2.png',
+    title: 'Full Stack Tech',
+    description:
+      'On April 24, 2023, I successfully obtained the Full Stack certification from Study Section.',
     techStack: [],
     liveLink: '',
   },

@@ -57,7 +57,7 @@ export default function About() {
             letterSpacing="1px"
             color={theme.theme.dText}
           >
-            Experienced and skilled Blockchain Solidity Developer with a strong
+            Experienced and skilled Blockchain Web3 Developer with a strong
             background in developing and deploying smart contracts on various
             blockchain platforms. Proficient in Solidity programming language
             and knowledgeable in blockchain protocols and consensus mechanisms.
