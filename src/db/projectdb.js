@@ -143,7 +143,7 @@ export const Achievements = [
     liveLink: '',
   },
   {
-    heading: 'CertificationB',
+    heading: 'Certification B',
     img: './Certification1.png',
     title: 'Blockchain Solidity Certification of Study Section',
     description:
