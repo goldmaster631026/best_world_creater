@@ -152,7 +152,7 @@ export const Achievements = [
     liveLink: '',
   },
   {
-    heading: 'CertificationW',
+    heading: 'Certification W',
     img: './Certification2.png',
     title: 'Full Stack Tech',
     description:
