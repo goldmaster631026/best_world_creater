@@ -156,7 +156,7 @@ export const Achievements = [
     img: './Certification2.png',
     title: 'Full Stack Tech',
     description:
-      'On April 24, 2023, I successfully obtained the Full Stack certification from Study Section.',
+      'On April 18, 2023, I successfully obtained the Full Stack certification from Study Section.',
     techStack: [],
     liveLink: '',
   },
