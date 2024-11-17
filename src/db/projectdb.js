@@ -117,7 +117,8 @@ export const extra = [
     title: 'Website for Dubai ',
     description:
       'CREEK WATERS is a website that allows visitors to experience the epitome of luxury at Creek Waters, a luxury residential development located in the heart of Dubai Creek Harbour.',
-    techStack: [html, javascript, css, react, tailwind],
+    techStack: [html, javascript, react, tailwind],
+    // techStack: [html, javascript, css, react, tailwind],
     liveLink:
       'https://sales-inquiries.ae/axcapital/creek-waters/?cm_id=14234443811_128601192911_634311793342_kwd-2008893114396_c__g_&gclid=Cj0KCQjwy9-kBhCHARIsAHpBjHjBfMlBZzEkH9dP843URNelgbNWTiXSe8w0_CFcbZqQ2OaUpgrMlNAaAi0PEALw_wcB',
   },
@@ -127,7 +128,8 @@ export const extra = [
     title: 'Web Scrapping for Store',
     description:
       'NayadNayad is the Computer Hardward and Several Equipment Store in Israel. Now this store is expanding their store, so need to scrape other store, so I developed the scrapping system for their store.',
-    techStack: [react, node, express, typescript, tailwind, redux, mySQL],
+    techStack: [react, node, express, typescript, tailwind, redux],
+    // techStack: [react, node, express, typescript, tailwind, redux, mySQL],
     liveLink: 'https://www.nayadnayad.co.il/',
   },
 ];
