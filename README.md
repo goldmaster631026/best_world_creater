@@ -54,7 +54,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 ## About Me
 
-I am a passionate full-stack web developer with expertise in React and Next.js. I enjoy building interactive and user-friendly web applications. This portfolio showcases some of my best work and projects I've worked on.
+<!-- I am a passionate full-stack web developer with expertise in React and Next.js. I enjoy building interactive and user-friendly web applications. This portfolio showcases some of my best work and projects I've worked on. -->
 
 ## Contact
 

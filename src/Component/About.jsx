@@ -57,26 +57,12 @@ export default function About() {
             letterSpacing="1px"
             color={theme.theme.dText}
           >
-My name is Ronald Cheng, and I want to share my story with you, starting from where it all began in Seabright Plaza, located in North Point, Hong Kong. I was born and raised in this bustling area, surrounded by the lively sounds of the city. My parents worked as officers at a small company right there in the plaza. They were hardworking and dedicated, and their commitment to their jobs provided me with a happy and comfortable life. I have fond memories of spending weekends exploring the local markets, enjoying delicious meals at our favorite restaurants, and playing with friends in the neighborhood. Life was good, and I felt safe and loved.
-
-However, when I was just 11 years old, everything changed. Suddenly, I found myself without surrounded people, facing a world that felt very different and much colder. The warmth of Seabright Plaza turned into a place filled with memories that reminded me of my loss. I had to find the strength to move forward on my own.
-
-During this difficult time, my grandfather stepped in to support me. He had faced many challenges in his own life and became my mentor and guide. With his encouragement, I made the brave decision to leave Hong Kong behind and start a new chapter in my life. Our journey took us first to Singapore. Living there was an eye-opening experience; I learned about a new culture and met people from different backgrounds. It was a time of change for me, but it also sparked my interest in technology.
-
-After some time in Singapore, we moved to Texas in the United States. This move opened up even more opportunities for me. I discovered a passion for Information Technology that would shape my future career. I enrolled at Singapore Institute of Technology, where I pursued my studies with enthusiasm. The courses were challenging but exciting, providing me with the skills I needed to succeed in the tech world.
-
-As I studied at Singapore Institute of Technology, I focused on becoming a Full Stack Developer. This role allowed me to work on both the front-end and back-end of websites and applications. I learned how to use programming languages like JavaScript, Python, and Ruby on Rails to create dynamic websites that people could interact with easily. It was thrilling to see my ideas come to life through code.
-
-I have anaylical thinking, proactive approach, cross functional, streamline process, value added insight, key stakefolder.
-
-In addition to full-stack development, I became fascinated by Blockchain technology as a Web3 Developer. This area of technology has the potential to change many industries by creating decentralized applications that are secure and transparent. I worked on projects that used Ethereum and other blockchain platforms, gaining valuable experience that made me knowledgeable about this exciting field.
-
-Do you know and feel good at AI ?
-I also developed an interest in Artificial Intelligence (AI). I learned about machine learning algorithms and data analysis techniques that can help computers learn from data and make decisions. This knowledge has been incredibly useful as AI continues to grow and impact our lives.
-
-As I look back on my journey from Seabright Plaza to becoming a Senior Software Engineer today, I realize how important loyalty is in friendships. The relationships I've built along the way have played a significant role in supporting my career goals. Success is not just about reaching milestones; it’s about setting goals with determination and working hard to achieve them.
-
-Now, I am ready to support others with my technical skills in software development, blockchain technology, and AI solutions. My story is one of resilience and growth—a reminder that even when faced with challenges, we can find new paths filled with opportunities. Through every obstacle I've encountered, I've learned that with hard work and dedication, we can achieve great things together.
+            Experienced and skilled Full Stack | Web3 Developer with a strong
+            background in developing and deploying websites and softwares various types of platform for 
+            business, education, real estates, ecommerce and other purpose.
+            Expanding business introducing trending technology and familiar with Blockchain 
+            Web3 Tech like developing Trading softwares and bots.
+            
           </Text>
         </Box>
         <Box p="5px 15px" fontWeight="bolder" color="white">
