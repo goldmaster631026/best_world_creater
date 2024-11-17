@@ -1,9 +1,9 @@
 import {
-  css,
+  // css,
   express,
   html,
   javascript,
-  mySQL,
+  // mySQL,
   nextjs,
   node,
   react,
