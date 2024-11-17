@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { ThemeContext } from './ThemeContext';
 import { useContext } from 'react';
 import {
-  css,
+  // css,
   express,
   git,
   html,
@@ -17,7 +17,7 @@ import {
   redux,
   tailwind,
   typescript,
-  mySQL,
+  // mySQL,
   php,
   jotai,
   Solidity,
@@ -37,7 +37,7 @@ export default function Skills() {
 
   const skills = [
     html,
-    css,
+    // css,
     javascript,
     typescript,
     Solidity,
@@ -59,7 +59,7 @@ export default function Skills() {
     Hardhat,
     web3,
     rainbow,
-    mySQL,
+    // mySQL,
     tailwind,
   ];
 
