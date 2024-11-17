@@ -53,12 +53,12 @@ export default function About() {
               color={theme.theme.dText}
               textAlign={'start'}
             >
-              The Singapore Institute of Technology (新加坡理工大学) or SIT (新工大) is Singapore’s first University of Applied Learning, offering specialised degree programmes that prepare its graduates to be work-ready professionals. 
+              The University of Tennessee - Applied Learning, offering specialised degree programmes that prepare its graduates to be work-ready professionals. 
               With a mission to develop individuals and innovate with industry to impact the economy and society in meaningful ways, SIT aims to also be a leader in innovative workplace learning and applied research.
               <br />
               <br />
-              I graduated from the Singapore Institute of Technology in April 2017. My majority is Computer Science and Engineering.
-              I have got a Bachelor of Degree in Computer Science from Singapore Institute of Technology in 2017.
+              I graduated from the University of Tennessee in April 2016. My majority is Computer Science and Engineering.
+              I have got a Bachelor of Degree in Computer Science from University of Tennessee in 2016.
             </Text>
           </Box>
           <Box marginTop={'2rem'} marginLeft={'1rem'} width={"99%"}>
