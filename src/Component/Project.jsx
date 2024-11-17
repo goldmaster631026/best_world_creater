@@ -22,7 +22,7 @@ export default function Project() {
       <Box m="auto" textAlign="center">
         <Box pt="55px">
           <Heading color="#00796B" size="2xl">
-            Blockchain Projects
+            Projects
           </Heading>
         </Box>
         <Grid
