@@ -65,7 +65,7 @@ export default function About() {
 
 
             As I look back on my journey from Seabright Plaza to becoming a Senior Software Engineer, Project Manager, CTO today, I realize how important loyalty is in friendships. Success is not just about reaching milestones; it’s about setting goals with determination and working hard to achieve them.
-            
+            Surround yourself with those who lift you higher on your path to success!
             
           </Text>
         </Box>
