@@ -62,6 +62,10 @@ export default function About() {
             business, education, real estates, ecommerce and other purpose.
             Expanding business introducing trending technology and familiar with Blockchain 
             Web3 Tech like developing Trading softwares and bots.
+
+
+            As I look back on my journey from Seabright Plaza to becoming a Senior Software Engineer, Project Manager, CTO today, I realize how important loyalty is in friendships. Success is not just about reaching milestones; it’s about setting goals with determination and working hard to achieve them.
+            
             
           </Text>
         </Box>
