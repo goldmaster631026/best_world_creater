@@ -25,8 +25,8 @@ const Banner = () => {
         animate={{ x: 0 }}
         transition={{ duration: 1 }}
       >
-        <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hello, I'm </h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">IRP Cheng</h1>
+        <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Thanks for your visiting my page </h2>
+        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Surround yourself with those who lift you higher on your path to success.</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
