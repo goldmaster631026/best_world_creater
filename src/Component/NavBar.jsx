@@ -13,7 +13,7 @@ import {
 } from '@chakra-ui/react';
 import { useRef } from 'react';
 import { HamburgerIcon } from '@chakra-ui/icons';
-import resume from './../Banner//ronaldcheng.pdf';
+import resume from './../Banner//IRPcheng.pdf';
 import { Link as ScrollLink } from 'react-scroll';
 
 export const NavBar = () => {
