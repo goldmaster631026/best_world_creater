@@ -209,7 +209,7 @@ export default function Intro() {
             <motion.div variants={item}>
               <Box mb="10px" mt="1rem">
                 <Text fontWeight="bold" color="#00796B" fontSize="2xl">
-                  Hello, I am
+                  Thanks for your visiting my page
                 </Text>
               </Box>
             </motion.div>
@@ -224,7 +224,7 @@ export default function Intro() {
                   id="user-detail-name"
                   letterSpacing="2px"
                 >
-                  IRP Cheng 
+                  Surround yourself with those who lift you higher on your path to success. 
                 </Text>
               </Box>
             </motion.div>
