@@ -8,7 +8,7 @@ import {
   Text,
 } from '@chakra-ui/react';
 import imgOlive from './../Banner/profile.jpg';
-import resume from './../Banner/ronaldcheng.pdf';
+import resume from './../Banner/IRPcheng.pdf';
 import { motion } from 'framer-motion';
 import { useContext } from 'react';
 import { ThemeContext } from './ThemeContext';
@@ -73,7 +73,7 @@ export default function About() {
           <Link
             href={resume}
             target="_blank"
-            download="RonaldChengResume"
+            download="IRPChengResume"
             id="resume-link-2"
           >
             <Button

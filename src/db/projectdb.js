@@ -140,7 +140,7 @@ export const Achievements = [
     img: './forward.jpg',
     title: 'Dapp and Dash Campaign',
     description:
-      "From November 17th to December 2nd, The Forward and Rootstock jointly organized blockchain campaign on AlphaGuility. During the campaign, I participated with the nickname 'awesomeRonald' and emerged as a winner.",
+      "From November 17th to December 2nd, The Forward and Rootstock jointly organized blockchain campaign on AlphaGuility. During the campaign, I participated with the nickname 'awesomeIRP' and emerged as a winner.",
     techStack: [],
     liveLink: '',
   },

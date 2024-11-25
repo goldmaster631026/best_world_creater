@@ -113,7 +113,7 @@ const Footer = () => {
               className="text-primary hover:underline"
               target="blank"
             >
-              Ronald Cheng
+              IRP Cheng
             </a>
           </p>
         </div>

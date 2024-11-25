@@ -13,7 +13,7 @@ import {
 } from '@chakra-ui/react';
 import { useRef } from 'react';
 import { HamburgerIcon } from '@chakra-ui/icons';
-import resume from './../Banner//ronaldcheng.pdf';
+import resume from './../Banner//IRPcheng.pdf';
 import { Link as ScrollLink } from 'react-scroll';
 
 export const NavBar = () => {
@@ -232,7 +232,7 @@ export const NavBar = () => {
               <Link
                 href={resume}
                 target="_blank"
-                download="RonaldResume"
+                download="IRPResume"
                 id="resume-link-1"
               >
                 <Text
@@ -385,7 +385,7 @@ export const NavBar = () => {
               fontWeight="bolder"
               color="white"
             >
-              <a href={resume} download="RonaldResume">
+              <a href={resume} download="IRPResume">
                 <Button
                   background="none"
                   color="white"

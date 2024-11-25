@@ -163,7 +163,7 @@ export default function Intro() {
             <Flex mt="25px">
               <Box w="10%">
                 <a
-                  href="https://www.linkedin.com/in/Ronald"
+                  href="https://www.linkedin.com/in/IRP"
                 >
                   <AiFillLinkedin color="#26A69A" size="25px" />
                 </a>
@@ -173,7 +173,7 @@ export default function Intro() {
           <motion.div variants={item}>
             <Flex mt="25px">
               <Box w="10%">
-                <a href="https://x.com/ronald_cheng010">
+                <a href="https://x.com/IRP_cheng010">
                   <AiOutlineTwitter color="#26A69A" size="25px" />
                 </a>
               </Box>
@@ -224,7 +224,7 @@ export default function Intro() {
                   id="user-detail-name"
                   letterSpacing="2px"
                 >
-                  Ronald Cheng
+                  IRP Cheng 
                 </Text>
               </Box>
             </motion.div>

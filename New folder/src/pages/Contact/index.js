@@ -141,7 +141,7 @@ const Contact = () => {
           <h2 className="text-2xl font-medium">Contact Info</h2>
           <div className="flex items-center my-6">
             <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaUserAlt>
-            <h3 className="font-medium text-primary"> Ronald Cheng</h3>
+            <h3 className="font-medium text-primary"> IRP Cheng</h3>
           </div>
           <div className="flex items-center my-6">
             <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
@@ -178,7 +178,7 @@ const Contact = () => {
               <FaGithubSquare></FaGithubSquare>
             </a>
             <a
-              href="https://x.com/ronald_cheng010"
+              href="https://x.com/IRP_cheng010"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >

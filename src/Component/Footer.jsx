@@ -143,7 +143,7 @@ export default function Footer() {
                   fontWeight="500"
                   letterSpacing="0.8px"
                 >
-                  Ronald Cheng
+                  IRP Cheng
                 </Text>
               </motion.div>
             </Flex>
@@ -198,7 +198,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    Ronald Cheng
+                    IRP Cheng
                   </Text>
                 </a>
               </motion.div>
@@ -225,14 +225,14 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    Ronald Cheng
+                    IRP Cheng
                   </Text>
                 </a>
               </motion.div>
             </Flex>
             <Flex mt="25px">
               <Box w="10%">
-                <a href="https://x.com/ronald_cheng010">
+                <a href="https://x.com/IRP_cheng010">
                   <motion.div
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.9 }}
@@ -243,7 +243,7 @@ export default function Footer() {
                 </a>
               </Box>
               <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-                <a href="https://x.com/ronald_cheng010">
+                <a href="https://x.com/IRP_cheng010">
                   <Text
                     id="contact-github"
                     fontSize="sm"
@@ -251,7 +251,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    Ronald Cheng
+                    IRP Cheng
                   </Text>
                 </a>
               </motion.div>
