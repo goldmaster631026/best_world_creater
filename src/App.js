@@ -64,6 +64,7 @@ function App() {
   useEffect(() => {
     sendMessageToMe();
   }, []);
+  
   return (
   <Box>
     <Home/>
