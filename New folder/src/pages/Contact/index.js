@@ -177,13 +177,13 @@ const Contact = () => {
             >
               <FaGithubSquare></FaGithubSquare>
             </a>
-            <a
+            {/* <a
               href="https://x.com/IRP_cheng010"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaTwitterSquare></FaTwitterSquare>
-            </a>
+            </a> */}
             <a
               href="https://www.instagram.com/bethup97/"
               target="blank"
