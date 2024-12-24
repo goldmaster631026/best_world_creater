@@ -49,7 +49,7 @@ export default function About() {
           </motion.div>
         </Flex>
         <Heading color="#00796B" mt="25px">
-          About Me
+          - About Me -
         </Heading>
         <Box mt="5px">
           <Text
