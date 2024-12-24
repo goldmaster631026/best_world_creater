@@ -143,7 +143,7 @@ export default function Footer() {
                   fontWeight="500"
                   letterSpacing="0.8px"
                 >
-                  IRP Cheng
+                  Snow
                 </Text>
               </motion.div>
             </Flex>
@@ -198,7 +198,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    IRP Cheng
+                    Snow
                   </Text>
                 </a>
               </motion.div>
@@ -225,7 +225,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    IRP Cheng
+                    Snow
                   </Text>
                 </a>
               </motion.div>
@@ -251,7 +251,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    IRP Cheng
+                    Snow
                   </Text>
                 </a>
               </motion.div>

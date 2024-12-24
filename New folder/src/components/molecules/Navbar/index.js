@@ -64,7 +64,7 @@ export default function Navbar() {
       <div className="w-full flex items-center justify-between px-3 md:px-24 py-3">
         <div>
           <Link to="/">
-            <h1 className="text-2xl text-primary font-lobster">IRP Cheng </h1>
+            <h1 className="text-2xl text-primary font-lobster">Snow </h1>
           </Link>
         </div>
         <div>
@@ -145,7 +145,7 @@ export default function Navbar() {
               </ul>
               <div className="text-center">
                 <p className="text-neutral">
-                  &copy; Copyright 2023,  IRP Cheng . All Rights Reserved
+                  &copy; Copyright 2023,  Snow . All Rights Reserved
                 </p>
               </div>
             </Drawer>
