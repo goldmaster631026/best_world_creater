@@ -7,7 +7,7 @@ import {
   Link,
   Text,
 } from '@chakra-ui/react';
-import imgOlive from './../Banner/profile.jpg';
+import imgOlive from './../Banner/profile4.jpg';
 import resume from './../Banner/IRPcheng.pdf';
 import { motion } from 'framer-motion';
 import { useContext } from 'react';
@@ -44,12 +44,13 @@ export default function About() {
               }}
               m="auto"
               ml={'25%'}
-              src={imgOlive}
+              src={}
+              // src={imgOlive}
             />
           </motion.div>
         </Flex>
         <Heading color="#00796B" mt="25px">
-          - About Me -
+          About Me
         </Heading>
         <Box mt="5px">
           <Text
