@@ -7,7 +7,7 @@ import {
   Link,
   Text,
 } from '@chakra-ui/react';
-import imgOlive from './../Banner/profile4.jpg';
+// import imgOlive from './../Banner/profile4.jpg';
 import resume from './../Banner/IRPcheng.pdf';
 import { motion } from 'framer-motion';
 import { useContext } from 'react';
@@ -32,7 +32,7 @@ export default function About() {
       >
         <Flex mt="55px" w={{ base: '100%', sm: '70%', md: '80%', lg: '50%' }}>
           <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-            <Image
+            {/* <Image
               _hover={{
                 boxShadow:
                   'rgba(218, 165, 32, 0.4) 0px 5px, rgba(218, 165, 32, 0.3) 0px 10px, rgba(218, 165, 32, 0.2) 0px 15px, rgba(218, 165, 32, 0.1) 0px 20px, rgba(218, 165, 32, 0.05) 0px 25px',
@@ -44,9 +44,9 @@ export default function About() {
               }}
               m="auto"
               ml={'25%'}
-              src={}
-              // src={imgOlive}
-            />
+              src={imgOlive}
+           
+            /> */}
           </motion.div>
         </Flex>
         <Heading color="#00796B" mt="25px">
