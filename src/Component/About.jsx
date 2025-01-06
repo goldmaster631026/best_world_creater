@@ -62,7 +62,7 @@ export default function About() {
             background in developing and deploying websites and softwares various types of platform for 
             business, education, real estates, ecommerce and other purpose.
             Expanding business introducing trending technology and familiar with Blockchain 
-            Web3 Tech like developing Trading softwares and bots.
+            Web3 Tech like developing Crypto Trading softwares and bots.
 
 
             As I look back on my journey from Seabright Plaza to becoming a Senior Software Engineer, Project Manager, CTO today, I realize how important loyalty is in friendships. Success is not just about reaching milestones; it’s about setting goals with determination and working hard to achieve them.
