@@ -8,7 +8,7 @@ import {
   Text,
 } from '@chakra-ui/react';
 import imgOlive from './../Banner/profile.jpg';
-// import resume from './../Banner/IRPcheng.pdf';
+import resume from './../Banner/IRPcheng.pdf';
 import { motion } from 'framer-motion';
 import { useContext } from 'react';
 import { ThemeContext } from './ThemeContext';
