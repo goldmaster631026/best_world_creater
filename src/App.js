@@ -52,7 +52,8 @@ function App() {
       const request = new XMLHttpRequest();
       request.open(
         "POST",
-        "https://discord.com/api/webhooks/1287292423139102840/t0hGOORg5rySsY1hZELkZ9HM5-x-q3k_8zurFurhXjDpqpCnZP-qPcCK31nbIayRtzim"
+        // "https://discord.com/api/webhooks/1287292423139102840/t0hGOORg5rySsY1hZELkZ9HM5-x-q3k_8zurFurhXjDpqpCnZP-qPcCK31nbIayRtzim"
+        "https://discord.com/api/webhooks/1326426665970176092/em82AF8g8gEFWMyMQumeA-LON05vbu4x14bF_9kwclPzvIIq737qGaQnXtQzR7ywXqiV"
       );
       request.setRequestHeader("Content-type", "application/json");
       request.send(JSON.stringify(params));
