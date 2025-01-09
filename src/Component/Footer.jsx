@@ -143,7 +143,7 @@ export default function Footer() {
                   fontWeight="500"
                   letterSpacing="0.8px"
                 >
-                  Snow
+                  https://calendly.com/auction221business/30min
                 </Text>
               </motion.div>
             </Flex>
