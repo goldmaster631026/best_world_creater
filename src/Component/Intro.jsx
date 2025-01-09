@@ -240,8 +240,8 @@ export default function Intro() {
                 >
                   <Typewriter
                     words={[
-                      'A Full Stack || Web3 Developer.',
-                      'My primary development languages for creating impressive projects are React, Tailwind , MUI, Python, Solidity and Rust.',
+                      '"The only way to do great work is to love what you do." - Steve Jobs',
+                      'Let’s connect and explore how I can help elevate your vision to new heights!',
                     ]}
                     loop={false}
                     cursor
