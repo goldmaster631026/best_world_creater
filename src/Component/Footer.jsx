@@ -225,7 +225,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    Snow
+                    Ronald
                   </Text>
                 </a>
               </motion.div>
@@ -251,7 +251,7 @@ export default function Footer() {
                     fontWeight="500"
                     letterSpacing="0.8px"
                   >
-                    Snow
+                    Ronald
                   </Text>
                 </a>
               </motion.div>
