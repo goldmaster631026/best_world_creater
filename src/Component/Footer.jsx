@@ -118,7 +118,7 @@ export default function Footer() {
       <Box p="40px 20px" m="auto" textAlign="center">
         <Box>
           <Heading color="#00796B">Contact Me</Heading>
-          <p>ffffffffffffff</p>
+          {/* <p>fffffff</p> */}
         </Box>
         <Grid
           gridTemplateColumns={{

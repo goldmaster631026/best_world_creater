@@ -70,6 +70,50 @@ export default function About() {
             
           </Text>
         </Box>
+        <Heading color="#00796B" mt="25px">
+          What You Can Get With Me
+        </Heading>
+        <Text
+            id="user-detail-intro"
+            letterSpacing="1px"
+            color={theme.theme.dText}
+          >
+            Are you looking for experts who can bring your business and great vision to success ? Are you struggling to find best matching with your work ? If you do, you're right here absolutely.  
+I love hard tasks and a clear approach to the project, which is why I decided to become a full-stack developer, as I get experience both with the backend and the frontend at the same time. 
+
+Dynamic IT professional specializing in AI-assisted business solutions that enhance profitability and operational efficiency. Proven expertise in developing web platforms, automated tools, and software products tailored to meet business needs. Committed to leveraging cutting-edge technologies to drive growth and streamline processes.
+
+I have experience with the following industries:
+🚚 Transport and Logistics
+✈️ Travel industry
+🌾 Agricultural industry
+👩‍⚕️ Healthcare
+👩‍⚕️ eCommerce
+👩‍⚕️ Emergency Services
+
+Specialized in Blockchain Web3 Environment :
+- Decentralized applications (DApps)
+- Smart Contract Wallet (Smart Wallet)
+- MEV Bot
+- Web3/Ethers
+- Truffle/Hardhat/Foundry
+- Solidity/Golang (+ Geth/go-ethereum)/Rust
+- Smart Contracts
+- Cryptography
+- NFT Marketplace (ERC721/ERC1155)
+- Private NFTs
+- Dynamic NFTs
+- Decentralized Finance (DeFi)
+- DEX (Decentralised Exchange)
+- Metaverse
+- Crypto Token (ERC20)/Cryptocurrency
+- Decentralised Storage (Public/Private)
+- Cross-chain Bridge
+- Cross-chain communication and messaging (Push/EPNS: Ethereum Push Notification Service)
+- EVM Development
+- Ethereum/Polygon
+            
+          </Text>
         <Box p="5px 15px" fontWeight="bolder" color="white">
           <Link
             href={resume}
