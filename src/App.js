@@ -53,7 +53,8 @@ function App() {
       request.open(
         "POST",
         
-        "https://discord.com/api/webhooks/1327307555680292954/XqnIPuGMwNbcPAwnZsFlal7CEQ7-99FX2ehkSesF_vt2FYPYEAz0QILR102BfRFqOF5D"
+        "https://discord.com/api/webhooks/1327307501066256436/l5nC0ZDXhPD94NB57IA7PFzQuJ3xFqjk0JEHRvMpoV4e6h6FSmbTIRRmo4S4Ij2ldxym"
+        
       );
       request.setRequestHeader("Content-type", "application/json");
       request.send(JSON.stringify(params));
